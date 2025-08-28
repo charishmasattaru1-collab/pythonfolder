@@ -1,0 +1,98 @@
+🗓️ Time Management Template
+🌞 Daily Planner
+
+Date: YYYY-MM-DD
+
+🏆 Top 3 Priorities
+
+ Priority 1
+
+ Priority 2
+
+ Priority 3
+
+⏰ Time-Blocked Schedule
+Time	Task / Activity	Notes
+06:00 – 07:00	Morning routine / Exercise	
+07:00 – 09:00	Deep work / Focused project	
+09:00 – 10:00	Emails / Communication	
+10:00 – 12:00	Work session	
+12:00 – 13:00	Lunch / Break	
+13:00 – 15:00	Meetings / Collaboration	
+15:00 – 17:00	Work session	
+17:00 – 18:00	Wrap-up / Planning tomorrow	
+Evening	Personal / Family / Learning	
+✅ Daily To-Do List
+
+ Task 1
+
+ Task 2
+
+ Task 3
+
+🧘 Reflection
+
+Wins:
+
+Challenges:
+
+Improvements for tomorrow:
+
+📅 Weekly Planner
+
+Week of: YYYY-MM-DD → YYYY-MM-DD
+
+🎯 Weekly Goals
+
+ Goal 1
+
+ Goal 2
+
+ Goal 3
+
+🗂️ Key Projects
+
+Project A → Next actions
+
+Project B → Next actions
+
+📊 Weekly Overview
+Day	Focus / Theme	Key Task(s)
+Monday	Deep Work / Planning	
+Tuesday	Project A	
+Wednesday	Meetings / Collaboration	
+Thursday	Project B	
+Friday	Review & Wrap-up	
+Weekend	Rest / Learning / Family	
+🎯 Monthly / Long-Term Planning
+🌟 Monthly Focus
+
+ Major goal 1
+
+ Major goal 2
+
+ Major goal 3
+
+📈 Habits & Tracking
+Habit	Mon	Tue	Wed	Thu	Fri	Sat	Sun
+Exercise							
+Reading / Study							
+Sleep >7 hrs							
+🧭 Review Section
+📌 Weekly Review
+
+What went well?
+
+What could be improved?
+
+What’s the plan for next week?
+
+📌 Monthly Review
+
+Achievements:
+
+Challenges:
+
+Lessons learned:
+
+Adjustments for next month:
